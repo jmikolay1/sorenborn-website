@@ -4,7 +4,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Sorenborn.com</title>
+        <title>Home - Sorenborn</title>
         <meta name="description" content="Strategic Communications for Industry-Defining Companies" />
         <meta property="og:title" content="Sorenborn.com" />
         <meta property="og:description" content="Strategic Communications for Industry-Defining Companies" />
